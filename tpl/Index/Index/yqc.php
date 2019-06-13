@@ -103,20 +103,20 @@
 
     .dt1 {
         position: absolute;
-        right: 250px;
-        top: -54px;
+        right: 225px;
+        top: -560px;
     }
 
     .dt2 {
         position: absolute;
-        right: 250px;
-        top: 176px;
+        right: 1500px;
+        top: 150px;
     }
 
     .dt3 {
         position: absolute;
-        right: 500px;
-        top: 400px;
+        right: 800px;
+        top: 410px;
     }
 
     /*S banner图切换*/
@@ -219,6 +219,7 @@
     </div>
 </div>
 <div id="dianji1">
+    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_01.jpg"></div>
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_02.jpg"></div>
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_03.jpg"></div>
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_04.jpg"></div>

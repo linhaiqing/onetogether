@@ -107,6 +107,8 @@
     <img src="{$static_path}wap6/1_19.jpg" alt="">
     <img src="{$static_path}wap6/1_20.jpg" alt="">
     <img src="{$static_path}wap6/1_21.jpg" alt="">
+    <img src="{$static_path}wap6/1_22.jpg" alt="">
+
 
 </div>
 <div style="display: none;">
