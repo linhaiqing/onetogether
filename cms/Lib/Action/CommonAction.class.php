@@ -71,6 +71,8 @@ class CommonAction extends Action
 		$this->config['config_site_url'] = $this->config['site_url'];
 		//$this->config['site_url'] = 'http://' . $_SERVER['HTTP_HOST'];
 		$url = 'http://' . $_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'];
+		$url = 'http://img.onetogether.cn/'.$_SERVER['SCRIPT_NAME'];
+		     
 		$this->config['site_url'] = dirname($url);
 
 		
