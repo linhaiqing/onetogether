@@ -10,13 +10,13 @@
                     </ul>
                 </li>
                 <li id="menu-item-278" class="menu-item menu-item-type-taxonomy menu-item-object-category current-category-ancestor current-menu-ancestor current-menu-parent current-category-parent menu-item-has-children menu-item-278">
-                    <a href="food.html">美食</a>
+                    <a href="yiqicha.html">美食</a>
                     <ul class="sub-menu">
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=30"  title="奶霜">奶霜</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=31"  title="水果茶">水果茶</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=34"  title="软欧包">软欧包</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=35"  title="西点">西点</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=32"  title="colourful">colourful</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=30"  title="水果茶">水果茶</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=31"  title="花与钻石">花与钻石</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=34"  title="气泡">气泡</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=35"  title="随心杯">随心杯</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=32"  title="椰奶">椰奶</a></li>
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=37"  title="舒芙蕾">舒芙蕾</a></li>
                     </ul>
                 </li>
@@ -43,13 +43,13 @@
                 </div>
 
                 <div class="copyright" style="padding: 0">
-                    投诉电话：{$config.site_phone} Copyright © 2017-2018 {$config.site_name}隶属于漫游时光（深圳）品牌管理有限公司 版权所有。<a href="http://www.beian.miit.gov.cn" rel="external nofollow">粤ICP备18001190</a>
+                    投诉电话：{$config.site_phone} Copyright © 2017-2018 {$config.site_name}隶属于漫游时光（深圳）品牌管理有限公司 版权所有。<a href="http://www.miitbeian.gov.cn" rel="external nofollow">粤ICP备18001190</a>
                 </div>
         </div>
     </div>
-    <div style="display: none;"><script src="https://s13.cnzz.com/z_stat.php?id=1273883163&web_id=1273883163" language="JavaScript"></script></div>
+    <div style="display: none;"><script type="text/javascript" src="https://s23.cnzz.com/z_stat.php?id=1277661222&web_id=1277661222"></script></div>
 </footer><!-- footer -->
-<script>(function() {var _53code = document.createElement("script");_53code.src = "https://tb.53kf.com/code/code/10170576/1";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+<script>(function()  {var  _53code  =  document.createElement("script");_53code.src  =  "https://tb.53kf.com/code/code/10185437/1";var  s  =  document.getElementsByTagName("script")[0];  s.parentNode.insertBefore(_53code,  s);})();</script> 
     <script>
 var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?f6b76b7f985c3c5af8d894e1b1bbc68f"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })(); </script>
 <script type="text/javascript" charset="utf-8" async src="http://lxbjs.baidu.com/lxb.js?sid=11693852"></script>
