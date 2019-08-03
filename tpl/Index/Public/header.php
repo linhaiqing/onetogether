@@ -40,7 +40,7 @@
 
 <script src="{$static_path}js/index.js"></script>
 <style>
-.dc {
+.dz {
         position: absolute;
         right: -220px;
 		
@@ -60,7 +60,7 @@
                 <a href="index.html"><img src="{$config.site_logo}" /></a>
 
             </div>
-            <div class="dc" >
+            <div class="dz" >
             <img src="{$static_path}pc6/28.png" width="100" height="76">
             </div>
 
