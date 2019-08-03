@@ -61,7 +61,7 @@
 
             </div>
             <div class="dz" >
-            <img src="{$static_path}wap6/28.png" width="100" height="76">
+            <img src="{$static_path}pc6/28.png" width="100" height="76">
             </div>
 
             <div class="nav">
