@@ -40,6 +40,7 @@
 
 <script src="{$static_path}js/index.js"></script>
 <style>
+<style>
 .dz {
         position: absolute;
         right: -220px;
