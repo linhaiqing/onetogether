@@ -40,7 +40,7 @@
 
 <script src="{$static_path}js/index.js"></script>
 <style>
-<style>
+
 .dk {
         position: absolute;
         right: -220px;
