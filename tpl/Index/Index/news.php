@@ -23,7 +23,7 @@
                                             <a href="detail.html?id={$vo.id}" style="text-indent:25px" target="_blank">{$vo.name}</a>
                                             </h2>
                                             <div class="entry-meta">
-                                                <span class="author"><i class="icon-pencil"></i>By <a href="/index.html">一起茶</a></span>
+                                                <span class="author"><i class="icon-pencil"></i>By <a href="/index.html">椰芙</a></span>
                                                 <span class="date">
                                                 <i class="icon-calendar-empty"></i>
                                                 <a href="detail.html?id={$vo.id}" target="_blank"><time >{$vo.last_time|date='Y-m-d',###}</time></a>
@@ -32,7 +32,7 @@
                                                 <i class="icon-folder-open"></i>
                                                 <a href="/news.aspx">新闻动态</a>
                                                 </span>
-                                                阅读 {$vo.click} 次
+                                                <span style="display: none;">阅读 {$vo.click} 次</span>
                                             </div>
                                         </div>
                                         <header class="entry-header">
